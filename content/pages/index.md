@@ -7,7 +7,7 @@ sections:
       text: RajaRathan Kamble
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Solution Architect / Technical Project Manager
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Key Achievements
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Inspiring Teams. Driving Results.
       color: text-dark
       styles:
         self:
@@ -62,12 +62,10 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: $6M 
+        subtitle: Budget Projects Delivered
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Led digital transformation projects worth $2M to $6M across BFSI, Retail, and Hi-tech industries.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
