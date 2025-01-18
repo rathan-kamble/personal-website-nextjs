@@ -91,9 +91,7 @@ sections:
       - title: 70% 
         subtitle: Cost Savings.
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Enhanced client operations by upgrading and migrating legacy data to cloud platforms (AWS, Azure, GCP).
         image:
           url: /images/icon2.svg
           altText: Featured icon two
