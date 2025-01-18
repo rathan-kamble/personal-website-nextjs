@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Key Achievements
+      label: It should be Key Benefits
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Key Achievements
     items:
       - type: FeaturedItem
         title: $6M 
@@ -84,7 +84,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/icon1.png
           styles:
             self:
               borderRadius: x-large
@@ -93,7 +93,7 @@ sections:
         text: >-
           Enhanced client operations by upgrading and migrating legacy data to cloud platforms (AWS, Azure, GCP).
         image:
-          url: /images/icon2.svg
+          url: /images/icon2.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -111,14 +111,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: 4.5+
+        subtitle: CSAT score
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Ensuring timely project delivery with high customer satisfaction rate of 4.5 CSAT score.
         image:
-          url: /images/icon3.svg
+          url: /images/icon3.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
