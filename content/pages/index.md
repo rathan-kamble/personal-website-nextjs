@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: $6M 
-        subtitle: Budget Projects Delivered
+        subtitle: Budget Projects Delivered.
         text: >-
           Led digital transformation projects worth $2M to $6M across BFSI, Retail, and Hi-tech industries.
         actions: []
@@ -88,8 +88,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 70% 
+        subtitle: Cost Savings.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
