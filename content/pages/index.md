@@ -30,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/rathan-photo-hero.jpg
+      url: /images/rathan-hero-small.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
