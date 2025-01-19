@@ -164,7 +164,7 @@ Known for delivering high-value projects worth $2M-$6M, I specialize in large-sc
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Building Relationships That Matter
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
