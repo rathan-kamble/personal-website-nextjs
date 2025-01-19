@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: It should be Key Benefits
+      label: Hello, I am  
       color: text-primary
       type: Badge
     elementId: ''
