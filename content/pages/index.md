@@ -9,9 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Solution Architect / Technical Project Manager
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A seasoned Digital Transformation Leader and Technical Project Manager with 18+ years of experience driving end-to-end Data & Analytics programs. Proficient in Data Engineering, AI/ML, and Cloud Technologies (Azure, AWS, GCP), I have successfully delivered large-scale programs valued at $2M–$6M across BFSI, Retail, and Hi-Tech industries.
     actions:
       - label: Get started
         altText: ''
@@ -32,7 +30,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/rathan-photo-hero.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
