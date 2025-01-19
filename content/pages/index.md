@@ -7,9 +7,13 @@ sections:
       text: RajaRathan Kamble
       color: text-dark
       type: TitleBlock
-    subtitle: Solution Architect / Technical Project Manager
+    subtitle: Empowering Digital Futures
     text: >
-      A seasoned Digital Transformation Leader and Technical Project Manager with 18+ years of experience driving end-to-end Data & Analytics programs. Proficient in Data Engineering, AI/ML, and Cloud Technologies (Azure, AWS, GCP), I have successfully delivered large-scale programs valued at $2M–$6M across BFSI, Retail, and Hi-Tech industries.
+      Digital Transformation Leader | Data & Analytics Expert | AI Architect
+
+      A Digital Transformation Leader with over 18 years of unparalleled experience in delivering high-impact solutions across BFSI, Retail, and Hi-Tech sectors. My expertise lies in driving multi-million-dollar projects, leveraging AI/ML, Cloud Technologies, and Data Engineering to solve complex business challenges.
+
+Known for delivering high-value projects worth $2M-$6M, I specialize in large-scale digital transformation, AI integrations, and cloud migrations that enhance client efficiency and satisfaction.
     actions:
       - label: Get started
         altText: ''
@@ -57,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Key Achievements
+    subtitle: I am driven by a philosophy of collaboration, innovation, and precision. 
     items:
       - type: FeaturedItem
         title: $6M 
@@ -141,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Digital Transformation Leader
       color: text-primary
       styles:
         self:
