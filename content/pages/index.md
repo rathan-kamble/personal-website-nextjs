@@ -18,7 +18,7 @@ sections:
         style: primary
         type: Button
     media:
-      url: /images/rathan-profile.png
+      url: /images/rathan-hero-small.png
       altText: A professional image of RajaRathan Kamble
       type: ImageBlock
     badge:
